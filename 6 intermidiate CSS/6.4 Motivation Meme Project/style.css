@@ -1,0 +1,28 @@
+body
+{
+    color:whitesmoke;
+    background-color: black;
+    text-align: center;
+
+}
+
+h1{
+  font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+#daenerys{
+ border: 5px, solid, whitesmoke;
+ width: 100%
+}
+
+#meme{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
