@@ -18,19 +18,6 @@ This repo is a growing collection of projects, mini-apps, and notes that track m
 
 ---
 
-## 📁 Project List
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| `tindog` | A Tinder-style dog profile site | HTML, CSS, Bootstrap |
-| `keeper-app` | Note-keeping app similar to Google Keep | React, CSS |
-| `blog-site` | A blog platform with dynamic routes | Node.js, Express, EJS |
-| `secrets-app` | App with login and user secrets | MongoDB, OAuth, bcrypt |
-
-> Want to see a live demo? Check if a project has a 🌐 Live link in its folder README!
-
----
-
 ## 📚 Course Topics Covered
 
 - ✅ HTML5, CSS3, Flexbox, Bootstrap
