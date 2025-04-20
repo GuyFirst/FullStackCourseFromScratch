@@ -12,7 +12,7 @@ This repo is a growing collection of projects, mini-apps, and notes that track m
 - 🧠 JavaScript logic challenges
 - 🌐 API practice projects
 - ⚙️ Node.js and Express servers
-- 📦 MongoDB/Mongoose database integration
+- 📦 SQL database integration
 - ✨ EJS templating and authentication
 - 🔐 Full-stack apps with security and user accounts
 
@@ -24,24 +24,11 @@ This repo is a growing collection of projects, mini-apps, and notes that track m
 - ✅ JavaScript ES6, DOM manipulation
 - ✅ Node.js, Express.js
 - ✅ EJS templating
-- ✅ MongoDB, Mongoose
+- ✅ SQL
 - ✅ RESTful APIs & CRUD
 - ✅ Authentication (OAuth, Passport.js, Sessions)
 - ✅ React.js basics
 
----
-
-## 📸 Screenshots
-
-
-
-## 💡 What's Next?
-
-- [ ] Deploy projects with Render/Netlify
-- [ ] Learn advanced React hooks and state management
-- [ ] Explore TypeScript and Next.js after the course
-
----
 
 ## 🙌 Let's Connect
 
