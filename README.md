@@ -33,7 +33,7 @@ This repo is a growing collection of projects, mini-apps, and notes that track m
 ## 🙌 Let's Connect
 
 - ✉️ guyfirst19@gmail.com
-- 💼 
+- 💼 https://www.linkedin.com/in/guy-first/
 - 🧠 
 
 ---
