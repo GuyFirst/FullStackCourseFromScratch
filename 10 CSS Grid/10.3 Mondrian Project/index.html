@@ -6,6 +6,79 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mondrian Project</title>
   <style>
+
+.picture{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  height: 748px;
+  width: 748px;
+  display: grid;
+  background-color: #000;
+  grid-template-columns: 320px 198px 153px 50px;
+  grid-template-rows: 414px 130px 155px 20px;
+  gap: 9px;
+
+}
+.red {
+  background-color: #E72F24;
+  width: 320px;
+  height: 414px;
+}
+
+.white1 {
+  background-color: #F0F1EC;
+  grid-column: span 3;
+}
+
+.white2 {
+  background-color: #F0F1EC;
+  grid-column: span 1;
+  grid-row: span 2; 
+}
+
+.white3 {
+  background-color: #F0F1EC;
+  max-width: 351px;
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.blue {
+  background-color: #004592;
+  border-bottom: 10px solid black;
+}
+
+.white4 {
+  background-color: #F0F1EC;
+  grid-area: 4 / 1 / -1;
+  height: 22px
+}
+
+.yellow {
+  background-color: #F9D01E;
+  grid-area: 4 / 2 / -1;
+  height: 22px
+}
+
+.black {
+  background-color: #232629;
+  grid-area: 4 / 3 / -1;
+  height: 22px
+}
+
+.white5 {
+  background-color: #F0F1EC;
+  grid-row: span 3;
+  height: 186px
+}
+
     /* 
     Write your CSS here 
     Gap Colour: #000
@@ -24,6 +97,24 @@
 
 <body>
   <!-- Write your HTML here -->
+<div class = picture>  
+  <div class = container>
+
+    <div class = red></div>
+    <div class = white1></div>
+    <div class = white2></div>
+    
+    <div class = white3></div> 
+    <div class = blue></div>
+    <div class = white4></div>
+    <div class = yellow></div>
+    <div class = black></div>
+    <div class = white5></div>
+
+  </div>
+</div>
+
+
 </body>
 
 </html>
